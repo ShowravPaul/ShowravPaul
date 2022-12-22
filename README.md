@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Showrav Paul
 #### Competitive Programmer
-![Competitive Programmer](https://drive.google.com/file/d/1yLzL7-tPuj_2hoqZ_E58bVrJ3CySbC9q/view)
+![Competitive Programmer](https://img.libquotes.com/pic-quotes/v2/kent-beck-quote-lbu4k9b.jpg)
 
 ### About me
 CP enthusiastic, doing competitive programming for 3 years, solved 1700+ algorithmic problems in different online judges. I am familiar with data structures and algorithms and recently I have started learning about modern development. I enjoy problem-solving and exploring new technologies.
 
-Skills: C++ / JAVA / MySQL
+### Skills: C++ / JAVA / MySQL
 
 - 🌱 I’m currently learning JAVA 
 - 💬 Ask me about problem solving 
