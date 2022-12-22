@@ -5,7 +5,9 @@
 ### About me
 CP enthusiastic, doing competitive programming for 3 years, solved 1700+ algorithmic problems in different online judges. I am familiar with data structures and algorithms and recently I have started learning about modern development. I enjoy problem-solving and exploring new technologies.
 
-### Skills: C++ / JAVA / MySQL
+### Skills
+- C++ / JAVA / OOP / MySQL / HTML / CSS
+- Solved 1700+ algorithmic problems
 
 - 🌱 I’m currently learning JAVA 
 - 💬 Ask me about problem solving 
